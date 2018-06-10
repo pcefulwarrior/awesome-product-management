@@ -9,12 +9,16 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 
 ## 📚 Table of Contents
 * [Courses](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#courses)
+* [Articles](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#articles)
 * [Books](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#books)
 
 ### Courses
 * [Product Design by Google - Validation and UX through Design Sprints (Free, EN)](https://www.udacity.com/course/product-design--ud509)
 * [UX Crash Course: 31 Fundamentals (Free, EN)](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
 * [UX Crash Course: Fundamentals (Free, RU)](https://medium.com/ux-crash-course)
+
+### Articles
+* [The Morality of Manipulation](https://www.nirandfar.com/2012/07/the-art-of-manipulation.html)
 
 ### Books
 
