@@ -9,7 +9,7 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 
 ## 📚 Table of Contents
 * [Courses](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#-courses)
-* [Books](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#-books)
+* [Books](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#books)
 
 ### Courses
 * [Product Design by Google - Validation and UX through Design Sprints (Free, EN)](https://www.udacity.com/course/product-design--ud509)
