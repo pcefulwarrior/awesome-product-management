@@ -29,11 +29,18 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [How To Evaluate Market Demand For Your New Product Idea](https://www.shopify.com/blog/13444793-how-to-evaluate-market-demand-for-your-new-product-idea)
 * [4 Steps To Building A Compelling Value Proposition](https://www.forbes.com/sites/michaelskok/2013/06/14/4-steps-to-building-a-compelling-value-proposition/)
 * [The Difference Between Paid Search Results & Organic Search Results](https://web.archive.org/web/20150424032957/http://info.barcelonacreative.com/blog/bid/268929/The-Difference-Between-Paid-Search-Results-Organic-Search-Results)
+* [GoodUI ideas and A/B tested patterns for higher conversion rates and growth](https://goodui.org/)
 
 ### Books
 
 ### Tools
+* [Startup Tools](https://steveblank.com/tools-and-blogs-for-entrepreneurs/)
+* [Google Trends](https://trends.google.com/trends/)
+* [Google AdWords](https://adwords.google.com/home/)
+* [SimilarWeb - Digital Market Intelligence & Website Traffic](https://www.similarweb.com/)
+* [SEMrush - service for competitors research, shows organic and Ads keywords for any site or domain](https://www.semrush.com/)
+* [Topsy is Dead: Alternative Social Analytics Tools You Need to Use NOW](https://www.semrush.com/blog/topsy-is-dead-alternative-social-analytics-tools-you-need-to-use-now/)
 * [Color Safe - accessible web color combinations](http://colorsafe.co/)
-
+* [Axure - prototypes, specifications, and diagrams](https://www.axure.com/)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
