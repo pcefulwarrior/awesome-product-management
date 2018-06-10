@@ -8,7 +8,7 @@ Have anything in mind that looks like awesome product management resource or too
 Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-management/pulls). Awesome product managers would love to see your suggestions!
 
 ## 📚 Table of Contents
-* [Courses](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#-courses)
+* [Courses](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#courses)
 * [Books](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#books)
 
 ### Courses
