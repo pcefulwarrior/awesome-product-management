@@ -19,6 +19,13 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 
 ### Articles
 * [The Morality of Manipulation](https://www.nirandfar.com/2012/07/the-art-of-manipulation.html)
+* [The Real Reason “Stupid” Startups Raise So Much Money](https://www.nirandfar.com/2014/12/stupid-startups.html)
+* [Better User Research Through Surveys](https://uxmastery.com/better-user-research-through-surveys/)
+* [A 5-Step Process For Conducting User Research](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)
+* [The UX Research Plan That Stakeholders Love](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/)
+* [The Rainbow Spreadsheet: A Collaborative Lean UX Research Tool](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/)
+* [Interviewing Users](https://www.nngroup.com/articles/interviewing-users/)
+* []()
 
 ### Books
 
