@@ -13,7 +13,6 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [UI/UX](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#ui/ux)
 * [Marketing](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#marketing)
 * [Execution](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#execution)
-* [Wireframe Tools](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#wireframe-tools)
 * [Other Tools](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#other-tools)
 * [Books](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#books)
 
@@ -36,6 +35,7 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [SurveyGizmo](https://www.surveygizmo.com/)
 * [SurveyMonkey](https://www.surveymonkey.com/)
 * [Google Analytics Surveys](https://www.google.com/analytics/surveys/#)
+* [Whois Lookup](https://www.whois.net/)
 * []()
 
 ### UX/UI
@@ -65,6 +65,7 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 
 #### Tools
 * [Alexa](https://www.alexa.com/)
+* [Google AdWords](https://adwords.google.com/home/)
 * [Google Trends](https://trends.google.com/trends/)
 * [SEMrush](https://www.semrush.com/)
 * [SimilarWeb](https://www.similarweb.com/)
@@ -76,10 +77,8 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 
 ### Execution   
 
-### Other Tools
+#### Tools
 * [Startup Tools](https://steveblank.com/tools-and-blogs-for-entrepreneurs/)
-* [Google AdWords](https://adwords.google.com/home/)
-* [Whois Lookup: Domain Names Search, Registration and Availability](https://www.whois.net/)
 
 ### Books
 
