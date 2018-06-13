@@ -10,12 +10,11 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 ## 📚 Table of Contents
 * [Courses](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#courses)
 * [Vision & Strategy](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#vision-&-strategy)
-* [Design](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#design)
+* [UI/UX](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#ui/ux)
 * [Marketing](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#marketing)
-* [Execusion](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#execution)
+* [Execution](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#execution)
 * [Wireframe Tools](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#wireframe-tools)
 * [Other Tools](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#other-tools)
-* [Articles](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#articles)
 * [Books](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#books)
 
 ### Courses
@@ -25,14 +24,27 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [Go Practice! Simulator (RU)](https://simulator.gopractice.ru/)
 
 ### Vision & Strategy 
+* [A 5-Step Process For Conducting User Research](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)
+* [Better User Research Through Surveys](https://uxmastery.com/better-user-research-through-surveys/)
+* [Interviewing Users](https://www.nngroup.com/articles/interviewing-users/)
+* [4 Steps To Building A Compelling Value Proposition](https://www.forbes.com/sites/michaelskok/2013/06/14/4-steps-to-building-a-compelling-value-proposition/)
+* [9 Factors that Affect a Customer's Willingness to Pay](https://blog.blackcurve.com/9-factors-that-affect-a-customers-willingness-to-pay)
+* [The Real Reason “Stupid” Startups Raise So Much Money](https://www.nirandfar.com/2014/12/stupid-startups.html)
 
-### Design
+#### Tools
+* [Kano Model](https://www.kanomodel.com/)
+* [SurveyGizmo](https://www.surveygizmo.com/)
+* [SurveyMonkey](https://www.surveymonkey.com/)
+* [Google Analytics Surveys](https://www.google.com/analytics/surveys/#)
+* []()
 
-### Marketing
+### UX/UI
+* [The UX Research Plan That Stakeholders Love](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/)
+* [The Rainbow Spreadsheet: A Collaborative Lean UX Research Tool](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/)
+* [GoodUI ideas and A/B tested patterns for higher conversion rates and growth](https://goodui.org/)
+* [Color Safe: accessible web color combinations](http://colorsafe.co/)
 
-### Execusion   
-
-### Wireframe Tools
+#### Wireframe Tools
 * [Axure](https://www.axure.com/)
 * [Balsamiq](https://balsamiq.com/)
 * [Figma](https://www.figma.com/)
@@ -43,28 +55,31 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [Moqups](https://moqups.com/)
 * [Pencil](https://github.com/evolus/pencil) 
 
+### Marketing
+* [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md)
+* [How To Evaluate Market Demand For Your New Product Idea](https://www.shopify.com/blog/13444793-how-to-evaluate-market-demand-for-your-new-product-idea)
+* [The Morality of Manipulation](https://www.nirandfar.com/2012/07/the-art-of-manipulation.html)
+* [Topsy is Dead - Alternative Social Analytics Tools You Need to Use NOW](https://www.semrush.com/blog/topsy-is-dead-alternative-social-analytics-tools-you-need-to-use-now/)
+* [The Difference Between Paid Search Results & Organic Search Results](https://web.archive.org/web/20150424032957/http://info.barcelonacreative.com/blog/bid/268929/The-Difference-Between-Paid-Search-Results-Organic-Search-Results)
+
+
+#### Marketing Research Tools
+* [Alexa](https://www.alexa.com/)
+* [Google Trends](https://trends.google.com/trends/)
+* [SEMrush](https://www.semrush.com/)
+* [SimilarWeb](https://www.similarweb.com/)
+* [Statista](https://www.statista.com/)
+* [Crunchbase](https://www.crunchbase.com/)
+* [The World FactBook](https://www.cia.gov/library/publications/resources/the-world-factbook/)
+* [Opera VPN](https://www.opera.com/uk/computer/features/free-vpn)
+* [TunnelBear](https://www.tunnelbear.com/)
+
+### Execution   
+
 ### Other Tools
 * [Startup Tools](https://steveblank.com/tools-and-blogs-for-entrepreneurs/)
-* [Google Trends](https://trends.google.com/trends/)
 * [Google AdWords](https://adwords.google.com/home/)
-* [SimilarWeb: digital market intelligence & website traffic](https://www.similarweb.com/)
-* [SEMrush: service for competitors research, shows organic and Ads keywords for any site or domain](https://www.semrush.com/)
-* [Topsy is Dead - Alternative Social Analytics Tools You Need to Use NOW](https://www.semrush.com/blog/topsy-is-dead-alternative-social-analytics-tools-you-need-to-use-now/)
-* [Color Safe: accessible web color combinations](http://colorsafe.co/)
 * [Whois Lookup: Domain Names Search, Registration and Availability](https://www.whois.net/)
-
-### Articles
-* [The Morality of Manipulation](https://www.nirandfar.com/2012/07/the-art-of-manipulation.html)
-* [The Real Reason “Stupid” Startups Raise So Much Money](https://www.nirandfar.com/2014/12/stupid-startups.html)
-* [Better User Research Through Surveys](https://uxmastery.com/better-user-research-through-surveys/)
-* [A 5-Step Process For Conducting User Research](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)
-* [The UX Research Plan That Stakeholders Love](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/)
-* [The Rainbow Spreadsheet: A Collaborative Lean UX Research Tool](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/)
-* [Interviewing Users](https://www.nngroup.com/articles/interviewing-users/)
-* [How To Evaluate Market Demand For Your New Product Idea](https://www.shopify.com/blog/13444793-how-to-evaluate-market-demand-for-your-new-product-idea)
-* [4 Steps To Building A Compelling Value Proposition](https://www.forbes.com/sites/michaelskok/2013/06/14/4-steps-to-building-a-compelling-value-proposition/)
-* [The Difference Between Paid Search Results & Organic Search Results](https://web.archive.org/web/20150424032957/http://info.barcelonacreative.com/blog/bid/268929/The-Difference-Between-Paid-Search-Results-Organic-Search-Results)
-* [GoodUI ideas and A/B tested patterns for higher conversion rates and growth](https://goodui.org/)
 
 ### Books
 
