@@ -13,7 +13,6 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [UI/UX](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#ui/ux)
 * [Marketing](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#marketing)
 * [Execution](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#execution)
-* [Other Tools](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#other-tools)
 * [Books](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#books)
 
 ### Courses
