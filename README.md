@@ -44,7 +44,7 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [GoodUI ideas and A/B tested patterns for higher conversion rates and growth](https://goodui.org/)
 * [Color Safe: accessible web color combinations](http://colorsafe.co/)
 
-#### Wireframe Tools
+#### Tools
 * [Axure](https://www.axure.com/)
 * [Balsamiq](https://balsamiq.com/)
 * [Figma](https://www.figma.com/)
@@ -63,7 +63,7 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [The Difference Between Paid Search Results & Organic Search Results](https://web.archive.org/web/20150424032957/http://info.barcelonacreative.com/blog/bid/268929/The-Difference-Between-Paid-Search-Results-Organic-Search-Results)
 
 
-#### Marketing Research Tools
+#### Tools
 * [Alexa](https://www.alexa.com/)
 * [Google Trends](https://trends.google.com/trends/)
 * [SEMrush](https://www.semrush.com/)
