@@ -69,6 +69,8 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [SimilarWeb](https://www.similarweb.com/)
 * [Statista](https://www.statista.com/)
 * [Crunchbase](https://www.crunchbase.com/)
+* [Mixpanel](https://mixpanel.com/)
+* [Localytics](https://www.localytics.com/)
 * [The World FactBook](https://www.cia.gov/library/publications/resources/the-world-factbook/)
 * [Opera VPN](https://www.opera.com/uk/computer/features/free-vpn)
 * [TunnelBear](https://www.tunnelbear.com/)
