@@ -8,18 +8,12 @@ Have anything in mind that looks like awesome product management resource or too
 Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-management/pulls). Awesome product managers would love to see your suggestions!
 
 ## 📚 Table of Contents
-* [Courses](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#courses)
 * [Vision & Strategy](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#vision-&-strategy)
 * [UI/UX](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#ui/ux)
 * [Marketing](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#marketing)
 * [Execution](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#execution)
+* [Courses](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#courses)
 * [Books](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#books)
-
-### Courses
-* [Product Design by Google: Validation and UX through Design Sprints (EN)](https://www.udacity.com/course/product-design--ud509)
-* [UX Crash Course: 31 Fundamentals (EN)](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
-* [UX Crash Course: Fundamentals (RU)](https://medium.com/ux-crash-course)
-* [Go Practice! Simulator (RU)](https://simulator.gopractice.ru/)
 
 ### Vision & Strategy 
 * [A 5-Step Process For Conducting User Research](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)
@@ -39,6 +33,9 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 
 ### UX/UI
 * [The UX Research Plan That Stakeholders Love](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/)
+* [Don’t Let Your Brain Deceive You: Avoiding Bias In Your UX Feedback] (https://www.smashingmagazine.com/2017/10/avoid-bias-ux-feedback/)
+* [Cognitive biases in user research](https://uxdesign.cc/cognitive-biases-in-user-interviews-part-1-f811ecb61590)
+* [7 Proven Cognitive Biases (And How They Impact Your Design)](https://www.sitepoint.com/7-proven-cognitive-biases-and-how-they-impact-your-design/)
 * [The Rainbow Spreadsheet: A Collaborative Lean UX Research Tool](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/)
 * [GoodUI ideas and A/B tested patterns for higher conversion rates and growth](https://goodui.org/)
 * [Color Safe: accessible web color combinations](http://colorsafe.co/)
@@ -79,7 +76,19 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 #### Tools
 * [Startup Tools](https://steveblank.com/tools-and-blogs-for-entrepreneurs/)
 
+### Courses
+* [Product Design by Google: Validation and UX through Design Sprints (EN)](https://www.udacity.com/course/product-design--ud509)
+* [UX Crash Course: 31 Fundamentals (EN)](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
+* [UX Crash Course: Fundamentals (RU)](https://medium.com/ux-crash-course)
+* [Go Practice! Simulator (RU)](https://simulator.gopractice.ru/)
+
 ### Books
+* [The Lean Startup](http://theleanstartup.com/)
+* [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123)
+* [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
+* [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?s=books&ie=UTF8&qid=1528947529&sr=1-1&keywords=Don%27t+Make+Me+Think%3A+A+Common+Sense+Approach+to+Web+Usability+%28Voices+That+Matter%29)
+* [The Cartoon Introduction to Statistics](https://www.amazon.com/exec/obidos/ASIN/0809033666/managementc09-20/)
+* [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417/ref=sr_1_1?ie=UTF8&qid=1494862004&sr=8-1&keywords=business+model+generation)
 
 
 
