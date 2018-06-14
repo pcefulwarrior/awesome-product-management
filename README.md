@@ -22,7 +22,6 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [4 Steps To Building A Compelling Value Proposition](https://www.forbes.com/sites/michaelskok/2013/06/14/4-steps-to-building-a-compelling-value-proposition/)
 * [9 Factors that Affect a Customer's Willingness to Pay](https://blog.blackcurve.com/9-factors-that-affect-a-customers-willingness-to-pay)
 * [The Real Reason “Stupid” Startups Raise So Much Money](https://www.nirandfar.com/2014/12/stupid-startups.html)
-* [Two Methods for Modeling LTV with a Spreadsheet](https://www.slideshare.net/EricSeufert/ltv-spreadsheet-models-eric-seufert)
 
 #### Tools
 * [Kano Model](https://www.kanomodel.com/)
@@ -56,6 +55,7 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 ### Marketing
 * [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md)
 * [How To Evaluate Market Demand For Your New Product Idea](https://www.shopify.com/blog/13444793-how-to-evaluate-market-demand-for-your-new-product-idea)
+* [Two Methods for Modeling LTV with a Spreadsheet](https://www.slideshare.net/EricSeufert/ltv-spreadsheet-models-eric-seufert)
 * [The Morality of Manipulation](https://www.nirandfar.com/2012/07/the-art-of-manipulation.html)
 * [Topsy is Dead - Alternative Social Analytics Tools You Need to Use NOW](https://www.semrush.com/blog/topsy-is-dead-alternative-social-analytics-tools-you-need-to-use-now/)
 * [The Difference Between Paid Search Results & Organic Search Results](https://web.archive.org/web/20150424032957/http://info.barcelonacreative.com/blog/bid/268929/The-Difference-Between-Paid-Search-Results-Organic-Search-Results)
