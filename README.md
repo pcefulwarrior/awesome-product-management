@@ -93,6 +93,7 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?s=books&ie=UTF8&qid=1528947529&sr=1-1&keywords=Don%27t+Make+Me+Think%3A+A+Common+Sense+Approach+to+Web+Usability+%28Voices+That+Matter%29)
 * [The Cartoon Introduction to Statistics](https://www.amazon.com/exec/obidos/ASIN/0809033666/managementc09-20/)
 * [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417/ref=sr_1_1?ie=UTF8&qid=1494862004&sr=8-1&keywords=business+model+generation)
+* [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00NW01MKM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1528989845&sr=1-1&keywords=Hooked%3A+How+to+Build+Habit-Forming+Products)
 
 
 
