@@ -33,7 +33,7 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 
 ### UX/UI
 * [The UX Research Plan That Stakeholders Love](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/)
-* [Don’t Let Your Brain Deceive You: Avoiding Bias In Your UX Feedback] (https://www.smashingmagazine.com/2017/10/avoid-bias-ux-feedback/)
+* [Don’t Let Your Brain Deceive You: Avoiding Bias In Your UX Feedback](https://www.smashingmagazine.com/2017/10/avoid-bias-ux-feedback/)
 * [Cognitive biases in user research](https://uxdesign.cc/cognitive-biases-in-user-interviews-part-1-f811ecb61590)
 * [7 Proven Cognitive Biases (And How They Impact Your Design)](https://www.sitepoint.com/7-proven-cognitive-biases-and-how-they-impact-your-design/)
 * [The Rainbow Spreadsheet: A Collaborative Lean UX Research Tool](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/)
