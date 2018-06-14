@@ -37,6 +37,7 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [Cognitive biases in user research](https://uxdesign.cc/cognitive-biases-in-user-interviews-part-1-f811ecb61590)
 * [7 Proven Cognitive Biases (And How They Impact Your Design)](https://www.sitepoint.com/7-proven-cognitive-biases-and-how-they-impact-your-design/)
 * [The Rainbow Spreadsheet: A Collaborative Lean UX Research Tool](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/)
+* [Myth #6: Accessible sites are ugly](http://uxmyths.com/post/702066202/myth-6-accessible-sites-are-ugly)
 * [GoodUI ideas and A/B tested patterns for higher conversion rates and growth](https://goodui.org/)
 * [Color Safe: accessible web color combinations](http://colorsafe.co/)
 
