@@ -22,6 +22,7 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [4 Steps To Building A Compelling Value Proposition](https://www.forbes.com/sites/michaelskok/2013/06/14/4-steps-to-building-a-compelling-value-proposition/)
 * [9 Factors that Affect a Customer's Willingness to Pay](https://blog.blackcurve.com/9-factors-that-affect-a-customers-willingness-to-pay)
 * [The Real Reason “Stupid” Startups Raise So Much Money](https://www.nirandfar.com/2014/12/stupid-startups.html)
+* [Two Methods for Modeling LTV with a Spreadsheet](https://www.slideshare.net/EricSeufert/ltv-spreadsheet-models-eric-seufert)
 
 #### Tools
 * [Kano Model](https://www.kanomodel.com/)
