@@ -56,6 +56,7 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md)
 * [How To Evaluate Market Demand For Your New Product Idea](https://www.shopify.com/blog/13444793-how-to-evaluate-market-demand-for-your-new-product-idea)
 * [Two Methods for Modeling LTV with a Spreadsheet](https://www.slideshare.net/EricSeufert/ltv-spreadsheet-models-eric-seufert)
+* [How To Architect The Perfect Conversion Funnel For Your Business](https://www.digitalmarketer.com/conversion-funnel/)
 * [The Morality of Manipulation](https://www.nirandfar.com/2012/07/the-art-of-manipulation.html)
 * [Topsy is Dead - Alternative Social Analytics Tools You Need to Use NOW](https://www.semrush.com/blog/topsy-is-dead-alternative-social-analytics-tools-you-need-to-use-now/)
 * [The Difference Between Paid Search Results & Organic Search Results](https://web.archive.org/web/20150424032957/http://info.barcelonacreative.com/blog/bid/268929/The-Difference-Between-Paid-Search-Results-Organic-Search-Results)
