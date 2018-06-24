@@ -9,9 +9,10 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 
 ## 📚 Table of Contents
 * [Vision & Strategy](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#vision-&-strategy)
-* [UI/UX](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#ui/ux)
+* [UI/UX](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#ui-/-ux)
 * [Marketing](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#marketing)
 * [Execution](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#execution)
+* [Other Resources](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#other-resources)
 * [Courses](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#courses)
 * [Books](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#books)
 
@@ -61,6 +62,7 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [The Morality of Manipulation](https://www.nirandfar.com/2012/07/the-art-of-manipulation.html)
 * [Topsy is Dead - Alternative Social Analytics Tools You Need to Use NOW](https://www.semrush.com/blog/topsy-is-dead-alternative-social-analytics-tools-you-need-to-use-now/)
 * [The Difference Between Paid Search Results & Organic Search Results](https://web.archive.org/web/20150424032957/http://info.barcelonacreative.com/blog/bid/268929/The-Difference-Between-Paid-Search-Results-Organic-Search-Results)
+* [30 Ways to Experiment with Acquisition, Product, and Virality to Get More Growth](https://www.appcues.com/blog/growth-hacking-techniques)
 
 
 #### Tools
@@ -82,6 +84,9 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 
 #### Tools
 * [Startup Tools](https://steveblank.com/tools-and-blogs-for-entrepreneurs/)
+
+### Other Resources
+* [15 Handpicked Resources for the Well Rounded Product Manager](https://blog.craft.io/2017/01/01/handpicked-resources-product-manager/)
 
 ### Courses
 * [Product Design by Google: Validation and UX through Design Sprints](https://www.udacity.com/course/product-design--ud509)
