@@ -96,13 +96,18 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 
 ### Books
 * [The Lean Startup](http://theleanstartup.com/)
-* [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123)
 * [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
 * [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?s=books&ie=UTF8&qid=1528947529&sr=1-1&keywords=Don%27t+Make+Me+Think%3A+A+Common+Sense+Approach+to+Web+Usability+%28Voices+That+Matter%29)
-* [The Cartoon Introduction to Statistics](https://www.amazon.com/exec/obidos/ASIN/0809033666/managementc09-20/)
-* [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417/ref=sr_1_1?ie=UTF8&qid=1494862004&sr=8-1&keywords=business+model+generation)
 * [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00NW01MKM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1528989845&sr=1-1&keywords=Hooked%3A+How+to+Build+Habit-Forming+Products)
-
+* [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](http://momtestbook.com/)
+* [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems (Voices That Matter)](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself-ebook/dp/B002UXRGNO/ref=as_li_ss_tl?_encoding=UTF8&me=&linkCode=sl1&tag=geekchru-20&linkId=65bbf44fe47fc1cd03757ff2fcb8e515)
+* [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417/ref=sr_1_1?ie=UTF8&qid=1494862004&sr=8-1&keywords=business+model+generation)
+* [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123)
+* [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
+* [The Cartoon Introduction to Statistics](https://www.amazon.com/exec/obidos/ASIN/0809033666/managementc09-20/)
+* [Master your product's retention](https://www.productanalyticsplaybook.com/)
+* [Sprint: Solve Big Problems and Test New Ideas in just Five Days](https://www.thesprintbook.com/)
+* [Cracking the PM Interview: How to Land a Product Manager Job in Technology](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818/ref=sr_1_1?ie=UTF8&qid=1482407126&sr=8-1&keywords=cracking+the+pm+interview)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
