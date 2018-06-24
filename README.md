@@ -108,6 +108,7 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [The Cartoon Introduction to Statistics](https://www.amazon.com/exec/obidos/ASIN/0809033666/managementc09-20/)
 * [Master your product's retention](https://www.productanalyticsplaybook.com/)
 * [Sprint: Solve Big Problems and Test New Ideas in just Five Days](https://www.thesprintbook.com/)
+* [Getting Real: The smarter, faster, easier way to build a successful web application](https://basecamp.com/books/getting-real)
 * [Cracking the PM Interview: How to Land a Product Manager Job in Technology](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818/ref=sr_1_1?ie=UTF8&qid=1482407126&sr=8-1&keywords=cracking+the+pm+interview)
 
 
