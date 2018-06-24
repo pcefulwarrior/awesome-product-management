@@ -8,8 +8,8 @@ Have anything in mind that looks like awesome product management resource or too
 Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-management/pulls). Awesome product managers would love to see your suggestions!
 
 ## 📚 Table of Contents
-* [Vision & Strategy](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#vision)
-* [UX/UI](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#"ux/ui")
+* [Vision & Strategy](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#vision_\&_strategy)
+* [UX/UI](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#ux/ui)
 * [Marketing](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#marketing)
 * [Execution](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#execution)
 * [Other Resources](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#other-resources)
