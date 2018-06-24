@@ -86,7 +86,13 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [Product Design by Google: Validation and UX through Design Sprints (EN)](https://www.udacity.com/course/product-design--ud509)
 * [UX Crash Course: 31 Fundamentals (EN)](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
 * [UX Crash Course: Fundamentals (RU)](https://medium.com/ux-crash-course)
+* [Interaction Design](https://www.coursera.org/specializations/interaction-design)
 * [Go Practice! Simulator (RU)](https://simulator.gopractice.ru/)
+* [Introduction to Statistics: Descriptive Statistics](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)
+* [Qualitative analytics 101](https://courses.appsee.com/qualitative101/)
+* [Data Management and Visualization](https://www.coursera.org/learn/data-visualization)
+* [Google Analytics Academy Courses](https://analytics.google.com/analytics/academy/)
+
 
 ### Books
 * [The Lean Startup](http://theleanstartup.com/)
