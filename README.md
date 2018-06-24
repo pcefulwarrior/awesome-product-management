@@ -9,7 +9,7 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 
 ## 📚 Table of Contents
 * [Vision & Strategy](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#vision)
-* [UI/UX](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#ui)
+* [UI/UX](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#ui\/ux)
 * [Marketing](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#marketing)
 * [Execution](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#execution)
 * [Other Resources](https://github.com/AI-Sheva/awesome-product-management/blob/master/README.md#other-resources)
