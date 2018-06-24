@@ -87,6 +87,7 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 
 ### Other Resources
 * [15 Handpicked Resources for the Well Rounded Product Manager](https://blog.craft.io/2017/01/01/handpicked-resources-product-manager/)
+* [Product Management Insights 2017](http://insights.alphahq.com/product-management-insights-2017)
 
 ### Courses
 * [Product Design by Google: Validation and UX through Design Sprints](https://www.udacity.com/course/product-design--ud509)
