@@ -76,6 +76,7 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [The World FactBook](https://www.cia.gov/library/publications/resources/the-world-factbook/)
 * [Opera VPN](https://www.opera.com/uk/computer/features/free-vpn)
 * [TunnelBear](https://www.tunnelbear.com/)
+* [Evan’s Awesome A/B Tools](http://www.evanmiller.org/ab-testing/)
 
 ### Execution   
 
