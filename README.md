@@ -83,8 +83,8 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [Startup Tools](https://steveblank.com/tools-and-blogs-for-entrepreneurs/)
 
 ### Courses
-* [Product Design by Google: Validation and UX through Design Sprints (EN)](https://www.udacity.com/course/product-design--ud509)
-* [UX Crash Course: 31 Fundamentals (EN)](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
+* [Product Design by Google: Validation and UX through Design Sprints](https://www.udacity.com/course/product-design--ud509)
+* [UX Crash Course: 31 Fundamentals](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
 * [UX Crash Course: Fundamentals (RU)](https://medium.com/ux-crash-course)
 * [Interaction Design](https://www.coursera.org/specializations/interaction-design)
 * [Go Practice! Simulator (RU)](https://simulator.gopractice.ru/)
