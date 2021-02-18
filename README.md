@@ -30,7 +30,7 @@ Simply submit a [pull request](https://github.com/AI-Sheva/awesome-product-manag
 * [SurveyMonkey](https://www.surveymonkey.com/)
 * [Google Analytics Surveys](https://www.google.com/analytics/surveys/#)
 * [Whois Lookup](https://www.whois.net/)
-* []()
+* [LogChimp](https://logchimp.codecarrot.net/)
 
 ### UX/UI
 * [The UX Research Plan That Stakeholders Love](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/)
